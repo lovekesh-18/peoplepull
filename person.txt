@@ -1,2 +1,3 @@
 Please enter name
 Please enter age
+Please enter height
